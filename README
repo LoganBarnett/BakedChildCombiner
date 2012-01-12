@@ -1,0 +1,9 @@
+Warning: Here be dragons. It works for me and makes some assumptions about the naming/structure about my project. Feel free to fork and make more generic/configurable.
+
+== Installation
+Copy BakedChildCombiner.cs into Assets/Editor/Plugins (make the directories if needed).
+
+== Usage
+* Fire up the Baking window (Cmd-Shift-M [Mac], Control-Shift-M [Windows] or Window->BackedChildCombiner)
+* Click on the object you wish to in your scene
+* Click bake children
